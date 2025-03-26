@@ -1533,7 +1533,7 @@ ul.links li a::before,
     left: 0;
     top: auto;
     border-top: 1px solid #f02024;
-    margin-top: 0;
+    margin-top: 6px;
     cursor: default;
 }
 .bg-blue .dropdown-menu{
