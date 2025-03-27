@@ -2346,6 +2346,10 @@ a.dropdown-toggle::after {
     background: url(../images/bg-project-header.jpg) no-repeat;
 }
 
+.service-construction-header {
+    background: url(../images/bg-service-construction-header.jpg) no-repeat;
+}
+
 .service-equiprental-header {
     background: url(../images/bg-service-equiprental-header.jpg) no-repeat;
 }
