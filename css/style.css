@@ -2342,6 +2342,10 @@ a.dropdown-toggle::after {
     background: url(../images/bg-about-header.jpg) no-repeat;
 }
 
+.project-header {
+    background: url(../images/bg-project-header.jpg) no-repeat;
+}
+
 .blog-header {
     background: url(../images/bg-blog-header.jpg) no-repeat;
 }
@@ -3589,7 +3593,7 @@ h4.darkcolor {
     cursor: default;
 }
 .cbp-l-filters .cbp-filter-item-active span{
-    color: #ed2024;
+    color: #ffffff;
 }
 
 
