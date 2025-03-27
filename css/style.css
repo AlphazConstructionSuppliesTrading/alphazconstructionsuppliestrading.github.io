@@ -2350,6 +2350,14 @@ a.dropdown-toggle::after {
     background: url(../images/bg-service-construction-header.jpg) no-repeat;
 }
 
+.service-hardwaretools-header {
+    background: url(../images/bg-service-hardwaretools-header.jpg) no-repeat;
+}
+
+.service-custom-header {
+    background: url(../images/bg-service-custom-header.jpg) no-repeat;
+}
+
 .service-equiprental-header {
     background: url(../images/bg-service-equiprental-header.jpg) no-repeat;
 }
