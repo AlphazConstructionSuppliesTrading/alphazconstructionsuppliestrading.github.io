@@ -2346,6 +2346,10 @@ a.dropdown-toggle::after {
     background: url(../images/bg-project-header.jpg) no-repeat;
 }
 
+.service-equiprental-header {
+    background: url(../images/bg-service-equiprental-header.jpg) no-repeat;
+}
+
 .blog-header {
     background: url(../images/bg-blog-header.jpg) no-repeat;
 }
@@ -5023,6 +5027,14 @@ form.findus .select:after {
 
 .whitebox .widget {
     padding: 40px 30px;
+    background: #fff;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.whitebox2 .widget {
+    padding: 0px 30px; 
+    padding-bottom: 10px!important;
     background: #fff;
     -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
