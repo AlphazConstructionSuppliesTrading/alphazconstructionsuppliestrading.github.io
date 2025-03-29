@@ -1625,6 +1625,9 @@ a.dropdown-toggle::after {
 .services-main:hover h3 {
     color: #ed2024;
 }
+.aboutus-main {
+    border: 1px solid #000;
+}
 
 @media screen and (min-width: 992px) {
     .navbar-nav .dropdown {
@@ -4717,9 +4720,14 @@ body:not(.rtl-layout) .readmore {
 ul.rounded li::before,
 .webcats li a::before,
 .eny_profile .profile_photo>img,
-.single_post .post>img {
+.single_post {
     -webkit-border-radius: 50% !important;
     border-radius: 50% !important;
+}
+
+.post>img {
+   /* -webkit-border-radius: 50% !important;
+    border-radius: 50% !important;*/
 }
 
 blockquote.blockquote {
@@ -4973,7 +4981,7 @@ form.findus .select:after {
 }
 
 .single_post {
-    overflow: hidden;
+    /*overflow: hidden;*/
     display: table;
     margin-bottom: 20px;
 }
@@ -4984,8 +4992,8 @@ form.findus .select:after {
 }
 
 .single_post .post {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
 }
 
 .single_post .post>img {
@@ -5009,7 +5017,6 @@ form.findus .select:after {
 .single_post:focus a {
     color: #ed2024;
 }
-
 
 /*Categories*/
 
