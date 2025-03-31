@@ -148,6 +148,13 @@ p {
     padding-bottom: 7.5rem;
 }
 
+.padding_left {
+    padding-left: 2.5rem;
+}
+.padding_right {
+    padding-right: 2.5rem;
+}
+
 .margin {
     margin: 7.5rem 0;
 }
@@ -892,6 +899,9 @@ ul.social-icons.white li a:focus {
 .whatsapp:before{
     background-color: #09cc16 !important;
 }
+.tiktok:before{
+    background-color: #0c0c0c !important;
+}
 .inner-color .facebook:before,
 .inner-color .twitter:before,
 .inner-color .insta:before,
@@ -1316,7 +1326,7 @@ ul.links li a::before,
 }
 
 .navbar-brand {
-    margin: 10px 0;
+    margin: 12px 0;
     padding: 0;
     /*width: 150px;*/
     position: relative;
